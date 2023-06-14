@@ -1,2 +1,2 @@
 # inverted_pendulum
-sarsa lambda methods
+sarsa lambda methods under developpement
